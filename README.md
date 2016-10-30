@@ -1,5 +1,7 @@
 # Color Converter
 
+[![Build Status](https://travis-ci.org/petehouston/color-converter.svg?branch=master)](https://travis-ci.org/petehouston/color-converter)
+
 The simple PHP library to convert between Hex and RGB.
 
 ## Usage
