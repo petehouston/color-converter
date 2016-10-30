@@ -14,3 +14,6 @@ One single class **ColorConverter** with two functions:
 **rgb2hex(int $red, int $green, int $blue)**
 
 *return a hex string respresentation*.
+
+
+Added build with Travis CI.
