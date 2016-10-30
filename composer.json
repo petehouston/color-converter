@@ -1,0 +1,17 @@
+{
+    "name": "petehouston/color-converter",
+    "description": "Convert color between Hex and RGB.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pete Houston",
+            "email": "contact@petehouston.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "classmap": ["src/ColorConverter.php"]
+    }
+}
