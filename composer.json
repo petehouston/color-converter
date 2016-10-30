@@ -14,5 +14,8 @@
     "require": {},
     "autoload": {
         "classmap": ["src/ColorConverter.php"]
+    },
+    "scripts": {
+        "test": "php tests/ColorConverterTest.php"
     }
 }
