@@ -1,6 +1,7 @@
 {
     "name": "petehouston/color-converter",
     "description": "Convert color between Hex and RGB.",
+    "version": "1.0.0",
     "type": "library",
     "license": "MIT",
     "authors": [
