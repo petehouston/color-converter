@@ -1,7 +1,7 @@
 {
     "name": "petehouston/color-converter",
     "description": "Convert color between Hex and RGB.",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -13,7 +13,7 @@
     "minimum-stability": "stable",
     "require": {},
     "autoload": {
-        "classmap": ["src/ColorConverter.php"]
+        "classmap": ["src/ColorConverter.php", "src/ColorConverterServiceProvider.php"]
     },
     "scripts": {
         "test": "php tests/ColorConverterTest.php"
